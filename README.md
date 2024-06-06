@@ -1,0 +1,2 @@
+Sa se proiecteze un automat care masoara temperatura ambianta si afiseaza in mod ciclic temperatura masurata(pozitiva sau negativa),ora curenta(ora,minut) si data curenta(zi,luna).Afisoarele utilizate vor fi de tipul 7 segmente.
+ Design an automatic that measures the ambient temperature and cyclically displays the measured temperature (positive or negative), the current time (hour, minute) and the current date (day, month). The displays used will be of the 7-segment type.
